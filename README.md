@@ -99,7 +99,7 @@ Retorno
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/cleitonzummach/datumblog/blob/main/Datum.Blog.WebApi/PrintSwagger.PNG)
 
 
 ## Autor
